@@ -48,6 +48,12 @@ public class MemberShipSteps {
     }
 
     @Step
+    public void enterCaptcha(){
+
+        membership.Captcha.sendKeys("N11");
+    }
+
+    @Step
     public void selectGender(){
 
         membership.clickGenderBtn();
@@ -77,13 +83,13 @@ public class MemberShipSteps {
         membership.clickSbmBtn();
     }
 
-    public HomePage fill_In_Sign_Up_Form(){
+    public HomePage fill_in_sign_up_form(){
 
-     final String random = RandomStringUtils.randomAlphanumeric(5);
+     final String random = RandomStringUtils.randomAlphanumeric(10);
 
         enterFirstName("Test");
         enterLastName("User");
-        enterEmailAddress("test_user_" + random + "@pismail.com");
+        enterEmailAddress("automation_user_" + random + "@pismail.com");
         identifyPassword("123qwe");
         verifyPassword("123qwe");
         enterPhoneNumber("5610616161");
@@ -91,6 +97,7 @@ public class MemberShipSteps {
         dateOfBirth("1","1","1988");
         acceptMemberAgreement();
         clickSmsBtn();
+        enterCaptcha();
         clickSubmitBtn();
         return homePage;
     }

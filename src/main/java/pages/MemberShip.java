@@ -7,7 +7,7 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 
 
-@DefaultUrl("https://www.n11.com/uye-ol")
+@DefaultUrl("https://qa.n11.com/uye-ol")
 public class MemberShip extends PageObject {
 
     @CacheLookup
@@ -61,6 +61,10 @@ public class MemberShip extends PageObject {
     @CacheLookup
     @FindBy(id="submitButton")
     public WebElementFacade SubmitBtn;
+
+    @CacheLookup
+    @FindBy(id="captchaText")
+    public WebElementFacade Captcha;
 
 
     public void txtFirstname(String firstName) {

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="UITest.CampaignTest" skipped="0" tests="1" time="3.24" timestamp="2019-12-03 09:20:09"><testcase classname="UITest.CampaignTest" name="Sign Up"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver
-steps.HomePageSteps.open_Home_Page(HomePageSteps.java:16)
-UITest.CampaignTest.beforeTest(CampaignTest.java:37)
-</system-err></testcase></testsuite>

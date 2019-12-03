@@ -10,7 +10,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 
-import static net.thucydides.core.annotations.ClearCookiesPolicy.BeforeEachTest;
+import java.io.IOException;
 
 @Narrative(text={"",
         "",
@@ -18,33 +18,33 @@ import static net.thucydides.core.annotations.ClearCookiesPolicy.BeforeEachTest;
 @RunWith(SerenityRunner.class)
 public class CampaignTest {
 
-    //@Managed(driver = "chrome")
-    @Managed(clearCookies = BeforeEachTest)
+    @Managed(driver = "chrome")
+    //@Managed(clearCookies = BeforeEachTest)
     WebDriver driver;
 
     @Steps
-    HomePageSteps homePageFunctions;
+    HomePageSteps homePageSteps;
 
     @Steps
-    MemberShipSteps memberShipActions;
+    MemberShipSteps memberShipSteps;
 
     @Steps
-    CampaignPageSteps campaignPageActions;
+    CampaignPageSteps campaignPageSteps;
 
     @Before
     public void beforeTest(){
 
-        homePageFunctions.open_Home_Page();
+        homePageSteps.open_home_page();
     }
 
     @Test
     @Title("Sign Up")
-    public void signUp(){
+    public void signUp() throws IOException {
 
-        homePageFunctions.sign_Up_Button();
-        memberShipActions.fill_In_Sign_Up_Form();
-        homePageFunctions.validate_Sign_Up("Test User");
-        campaignPageActions.open_Campaign_Page();
-        campaignPageActions.list_Last_Campaign_From_Categories();
+        homePageSteps.click_to_sign_up_button();
+        memberShipSteps.fill_in_sign_up_form();
+        homePageSteps.assert_user_can_signed_up("Test User");
+        campaignPageSteps.open_campaign_page();
+        campaignPageSteps.list_last_campaign_from_categories();
     }
 }

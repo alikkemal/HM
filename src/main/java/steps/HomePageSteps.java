@@ -11,21 +11,21 @@ public class HomePageSteps {
     HomePage homePage;
 
     @Step
-    public HomePageSteps open_Home_Page(){
+    public HomePageSteps open_home_page(){
 
         homePage.open();
         return this;
     }
 
     @Step
-    public HomePageSteps sign_Up_Button(){
+    public HomePageSteps click_to_sign_up_button(){
 
         homePage.clickSignUpBtn();
         return this;
     }
 
     @Step
-    public HomePageSteps validate_Sign_Up(String userName) {
+    public HomePageSteps assert_user_can_signed_up(String userName) {
 
         assertThat(homePage.userLink.getText(), equalTo(userName));
         return this;

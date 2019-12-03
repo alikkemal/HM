@@ -6,7 +6,7 @@ import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.support.FindBy;
 
 
-@DefaultUrl("https://www.n11.com")
+@DefaultUrl("https://qa.n11.com/")
 public class HomePage extends PageObject {
 
     @FindBy(className = "btnSignUp")

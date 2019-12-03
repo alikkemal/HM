@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" href="fontawesome-free-5.3.1-web/css/all.css">
+<link rel="stylesheet" href="fontawesome-free-5.3.1-web/css/v4-shims.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.css">
+<link rel="stylesheet" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.19/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.19/datatables.min.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.19/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.19/datatables.bootstrap4.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname"></span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="5db1693b2e8ff5124760105398b99e1bd3748270156fd285e5909647563e1fe2.html">Campaign Test</a></span>
+                > <span class="truncate-60"><a
+                    href="d92566b410832196689569ff329c47cef27498e4f756a7e903b938dc64a743c8.html">Sign Up </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 03-12-2019 23:49</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Campaign Test</span>
+                                    <span class="badge tag-badge" style="">Story</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Sign Up
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="f86923b23a9386b952e8c710c5b41c4e0d0ac424d101613092cb938a38cd2261.png" title=" Open home page" width="2400"/>
+                <img src="816873bcd8d071090fef75d3fd917a9b8598e9b4466bd55ba2f4d43b0a51b669.png" title=" Click to sign up button" width="2400"/>
+                <img src="286d3bfa9fea9267286bab185dc8f55d3a473762255f85adb4f4d25a3ad98e72.png" title=" Enter first name: Test" width="2400"/>
+                <img src="96c0aa806d8cd93d052fd55d33f1d205c2128510fc03ef437d4b1ac359c7f273.png" title=" Enter last name: User" width="2400"/>
+                <img src="46115b119a6d332df71df9eb4c2747d02031035dea49644eee5a0db7e05c0718.png" title=" Enter email address: automation_user_wuWWBjozB2@pismail.com" width="2400"/>
+                <img src="ede0af4403de2c82a2883209734790ea30310d46c0ca2a2d453ccadb4d5a8de1.png" title=" Identify password: 123qwe" width="2400"/>
+                <img src="f28517278afe34bd23001c5f383c43577d97d81d32f35b052ed7f40d9b469ad3.png" title=" Verify password: 123qwe" width="2400"/>
+                <img src="59bec4091a722985f791105e7c98758abcbd43fb57025da0b8cbb879f5e2a997.png" title=" Enter phone number: 5610616161" width="2400"/>
+                <img src="ba45bc2ca5a3192d3bc2d285af1c3826f6562ab8adc5491760b33ad60e12c389.png" title=" Select gender" width="2400"/>
+                <img src="6f807ae96a8505fe572b2261f890890ef17ed53273b43d6fabccb06c1683500d.png" title=" Date of birth: 1, 1, 1988" width="2400"/>
+                <img src="a281c92f0e7f1102b3b559dcfb39eef979811ab977c194ff5a715bd41b085eeb.png" title=" Accept member agreement" width="2400"/>
+                <img src="651c2f976b5e4bb76974cd1453e7961478d0f5d9c4308fd1518ab7dbac0b60c8.png" title=" Click sms btn" width="2400"/>
+                <img src="b9c3c2785e1b7e679347405f7eee9c0ef27c07ac42f0788a9e933dd05b8286ff.png" title=" Enter captcha" width="2400"/>
+                <img src="9c3a799faf4c8339c942f8143e0584154bb5aea3eb784c22587a4e8de2e62d9a.png" title=" Click submit btn" width="2400"/>
+                <img src="3aa83b8c77df7ce77759de1e477675d6a56e6d1b7193875fc9ffb60e9ead9010.png" title=" Assert user can signed up: Test User" width="2400"/>
+                <img src="782992e8f07514beab0b4442c7b224b59a6478afbad41517310ba357cb057802.png" title=" Open campaign page" width="2400"/>
+                <img src="7bf92573f79ae82d2ddd4e191be9eddf5967b3c6f8e344a8e0f435c468f5ca72.png" title=" List last campaign from categories: <span class='success-color'>SUCCESS</span>" width="2400"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.0.23</span>
+</div>
+</body>
+</html>
