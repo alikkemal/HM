@@ -10,12 +10,13 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 import java.io.IOException;
+import static net.thucydides.core.annotations.ClearCookiesPolicy.BeforeEachTest;
 
 
 @RunWith(SerenityRunner.class)
 public class CampaignTest {
 
-    @Managed(driver = "chrome")
+    @Managed(clearCookies=BeforeEachTest)
     WebDriver driver;
 
     @Steps
