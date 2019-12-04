@@ -46,8 +46,7 @@ Start Zalenium Grid
 	Not: Yetkilendirme kaynaklı sorun yaşadığınızda terminal üzerinde " Docker system prune " komutu ile mevcut konteynırların tümünü silebilirsiniz. Bir önceki Docker setup adımları baştan uygulanarak işlem yapıldığında kaldığınız yerden devam edebilirsiniz.
   
   Bu işlemden sonra Docker ps -a komutundan PORT adresi alanında yazan 4444 kodu lochalhost üzerinden remote url olarak verilir ve 
-  /src/test/resources/serenity.conf alanında aşağıdaki şekilde ekleme yapılır ve testlerinizi browser üzerinde http://localhost:4444/dashboard/
-  sekmesinden izleyebilirsiniz.
+  /src/test/resources/serenity.conf alanında aşağıdaki şekilde ekleme yapılır ve testlerinizi browser üzerinde local adresinizden örn: http://localhost:4444/dashboard/ izleyebilirsiniz.
   
   webdriver {
   driver = remote
