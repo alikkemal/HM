@@ -7,7 +7,7 @@ JDK 1.8 ve Maven kurulmalıdır.
 Proje git clone üzerinden çekilerek
 Terminal üzerinde mvn clean verify komutu ile kontrol edilmelidir.
 
-** Test'i Run ettiğinizde chrome versiyon kaynaklı sorun yaşarsanız /src/test/java/homework/CampaignTest class'ın içinde driver alanı aşağıdaki şekilde 
+** Test'i Run ettiğinizde chrome versiyon kaynaklı sorun yaşarsanız /src/test/java/tests/CampaignTest class'ın içinde driver alanı aşağıdaki şekilde 
 eklenmeli,
 
      @Managed(driver = "chrome")

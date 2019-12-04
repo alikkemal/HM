@@ -1,4 +1,4 @@
-package homework.utils;
+package pageobjects.utils;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

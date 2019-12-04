@@ -1,9 +1,9 @@
-package homework;
+package tests;
 
-import homework.steps.HomePageSteps;
+import pageobjects.steps.HomePageSteps;
 import net.thucydides.core.annotations.*;
-import homework.steps.CampaignPageSteps;
-import homework.steps.MemberShipSteps;
+import pageobjects.steps.CampaignPageSteps;
+import pageobjects.steps.MemberShipSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import org.junit.Before;
 import org.junit.Test;
@@ -31,17 +31,23 @@ public class CampaignTest {
     @Before
     public void beforeTest(){
 
-        homePageSteps.open_home_page();
+        homePageSteps
+                .open_home_page();
     }
 
     @Test
     @Title("New member will be create every run test and Will be write campaign information over created member")
-    public void signUp() throws IOException {
+    public void campaignTest() throws IOException {
 
-        homePageSteps.click_to_sign_up_button();
-        memberShipSteps.fill_in_sign_up_form();
-        homePageSteps.assert_user_can_signed_up("Test User");
-        campaignPageSteps.open_campaign_page();
-        campaignPageSteps.write_campaign_names_from_categories_to_excel();
+        homePageSteps
+                .click_to_sign_up_button();
+        memberShipSteps
+                .fill_in_sign_up_form();
+        homePageSteps
+                .assert_user_can_signed_up("Test User");
+        campaignPageSteps
+                .open_campaign_page();
+        campaignPageSteps
+                .write_campaign_names_from_categories_to_excel();
     }
 }

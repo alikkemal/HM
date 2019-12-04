@@ -1,7 +1,7 @@
-package homework.steps;
+package pageobjects.steps;
 
-import homework.pages.HomePage;
-import homework.pages.MemberShip;
+import pageobjects.pages.HomePage;
+import pageobjects.pages.MemberShip;
 import net.thucydides.core.annotations.Step;
 import org.apache.commons.lang3.RandomStringUtils;
 

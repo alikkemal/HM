@@ -1,6 +1,6 @@
-package homework.steps;
+package pageobjects.steps;
 
-import homework.pages.HomePage;
+import pageobjects.pages.HomePage;
 import net.thucydides.core.annotations.Step;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;

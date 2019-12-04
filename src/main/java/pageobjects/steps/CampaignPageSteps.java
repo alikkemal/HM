@@ -1,6 +1,6 @@
-package homework.steps;
+package pageobjects.steps;
 
-import homework.pages.CampaignPage;
+import pageobjects.pages.CampaignPage;
 import net.thucydides.core.annotations.Step;
 import java.io.IOException;
 
