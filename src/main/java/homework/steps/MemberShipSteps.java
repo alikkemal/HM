@@ -47,12 +47,6 @@ public class MemberShipSteps {
         membership.txtPhoneNumber(phoneNumber);
     }
 
-    @Step("Member will be enter to intended capthca character before register on website")
-    public void enterCaptcha(){
-
-        membership.Captcha.sendKeys("N11");
-    }
-
     @Step("Member will be select gender")
     public void selectGender(){
 
@@ -75,6 +69,12 @@ public class MemberShipSteps {
     public void clickSmsBtn(){
 
         membership.clickSmsApproval();
+    }
+
+    @Step("Member will be enter to intended capthca character before register on website")
+    public void enterCaptcha(){
+
+        membership.Captcha.sendKeys("N11");
     }
 
     @Step("Member will be click to submit register information")
