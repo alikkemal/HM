@@ -22,10 +22,11 @@ eklenmeli,
 Testleri Zalenium Docker üzerinden koşmak için Terminal üzerinde aşağıdaki adımlar yapılmalıdır;
 
 Local Docker Container
+
 Selenium Docker Image Pull   
-  docker pull elgalu/selenium     
+ -> docker pull elgalu/selenium     
 Zalenium Docker Image Pull
-  docker pull dosel/zalenium       
+ -> docker pull dosel/zalenium       
   
     //yükleme yapıldıktan sonra aşağıdaki komutlar tek seferde enter edilmelidir
 
