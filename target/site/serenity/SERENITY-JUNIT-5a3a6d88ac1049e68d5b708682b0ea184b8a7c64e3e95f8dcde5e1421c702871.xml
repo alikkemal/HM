@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="homework.CampaignTest" skipped="0" tests="1" time="18.58" timestamp="2019-12-04 09:32:17"><testcase classname="homework.CampaignTest" name="New member will be create every run test and will be write campaign information over created member"><error message="Timed out after 2 seconds. Element not available&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'Mac111239', ip: 'fdec:cb30:db66:9500:1510:e27e:9681:eeaa%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotVisibleException">Timed out after 2 seconds. Element not available
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'Mac111239', ip: 'fdec:cb30:db66:9500:1510:e27e:9681:eeaa%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not available
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'Mac111239', ip: 'fdec:cb30:db66:9500:1510:e27e:9681:eeaa%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_171'
-Driver info: driver.version: unknown
-homework.pages.MemberShip.acceptAgreement(MemberShip.java:116)
-homework.steps.MemberShipSteps.acceptMemberAgreement(MemberShipSteps.java:65)
-homework.steps.MemberShipSteps.fill_in_sign_up_form(MemberShipSteps.java:98)
-homework.CampaignTest.signUp(CampaignTest.java:43)
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="homework.CampaignTest" skipped="0" tests="1" time="28.76" timestamp="2019-12-04 10:54:51"><testcase classname="homework.CampaignTest" name="New member will be create every run test and will be write campaign information over created member"/></testsuite>

@@ -1,0 +1,1042 @@
+<html lang="tr"><head>
+    <meta charset="UTF-8">
+
+    
+    <!-- New Google Tag Manager -->
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-KBMXXWM&amp;t=gtm2&amp;cid=985691005.1575437028"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TV7RCD"></script><script type="text/javascript" async="" src="//qah.n11.com/assets/javascripts/ha.js"></script><script>
+        window['dataLayer'] = window['dataLayer'] || [];
+        window['clientTime'] = window['clientTime'] || new Date().getTime();
+        window['gtmId'] = 'GTM-TV7RCD';
+    </script>
+    <!-- End Google Tag Manager -->
+
+        
+    <!-- [if lt IE 9]>
+        <script src="https://qastatic.n11.com/static/new-design/static/js/third_party/html5.js"></script>
+        <link rel="stylesheet" href="https://qastatic.n11.com/static/new-design/static/style/css/ie.css?v=1">
+    <![endif]-->
+
+            <link href="https://qastatic.n11.com/static/css/compressed_30343132323031393036.css" rel="stylesheet" type="text/css">
+    
+    
+
+
+    <title>Üye Ol - n11.com</title>
+    <meta name="description" content="n11.coma hemen şimdi ücretsiz üye olun, yüzlerce marka ve milyonlarca ürüne en iyi fiyatlarla ulaşın!">
+
+
+    <link rel="alternate" media="only screen and (max-width: 767px)" href="https://qamobile.n11.com/uye-ol">
+
+    <meta property="og:image" content="https://qaic.n11.com/a1/640/14/10/22/47/31/34/38/90/17/22/43/09/86661490663078673558.jpg">
+
+
+
+
+
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+    <link rel="search" href="https://qa.n11.com/opensearchdescription.xml" type="application/opensearchdescription+xml" title="n11">
+
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//n11scdn.akamaized.net">
+<link rel="dns-prefetch" href="//n11scdn1.akamaized.net">
+<link rel="dns-prefetch" href="//n11scdn2.akamaized.net">
+<link rel="dns-prefetch" href="//n11scdn3.akamaized.net">
+<link rel="dns-prefetch" href="//n11scdn4.akamaized.net">
+<link rel="dns-prefetch" href="//h.n11.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//www.googleadservices.com">
+<link rel="dns-prefetch" href="//ad.doubleclick.net">
+<link rel="dns-prefetch" href="//static.criteo.net">
+<link rel="dns-prefetch" href="//rt.visilabs.net">
+<link rel="dns-prefetch" href="//lgr.visilabs.net">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//cdn.appdynamics.com">
+<link rel="dns-prefetch" href="//rest.segmentify.com">
+<link rel="dns-prefetch" href="//cdn.segmentify.com">
+
+<meta name="msapplication-config" content="none">
+<link rel="shortcut icon" type="image/x-icon" href="https://qastatic.n11.com/static/favicon.ico">
+
+
+
+
+
+    
+            
+<script type="text/javascript">
+    if (typeof dataLayer === 'undefined')
+        dataLayer = [];
+    try {
+                    (function() {
+                dataLayer.push({"pageType":"other","pageName":"registration"});
+            })();
+            } catch (e) {}
+</script>
+
+<script type="text/javascript">
+                var google_cust_params = {"pagetype":"other","pagename":"registration"};
+    </script>
+
+    
+    <script type="text/javascript" async="" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><link type="text/css" rel="stylesheet" media="screen" href="//cdn.segmentify.com/8dcb7f6f-f2c8-4fc0-8333-d559a4da24da/segmentify.css"></head>
+    <body><img src="//qah.n11.com/__ha.gif?p=%7B%22acc%22%3A%22HA-APP-N11%22%2C%22userId%22%3A%22%22%2C%22userGroup%22%3A%22G%22%2C%22rs%22%3A%221920x1058%22%2C%22rf%22%3A%22https%3A%2F%2Fqa.n11.com%2F%22%2C%22tmp%22%3A%221575437035017%22%7D" id="0.0559057657021107_pixel" style="display: none;">
+        <div id="wrapper" class="simple registration">
+
+            
+
+<header id="header" class="simple">
+    <div class="container">
+        
+
+
+
+
+    <a href="https://qa.n11.com" class="logo" title="ne varsa n11de var">
+        <img src="https://qaic.n11.com/a1/org/15/04/13/65/74/66/15/18/46/26/34/06/53127786325516923437.png" width="124" height="46" alt="ne varsa n11de var">
+    </a>
+            <span class="hLogoT">ne varsa n11'de var</span>
+    
+
+
+        <div class="fTop">
+            <ul>
+                <li><span class="icon iconOrj">ORİJİNAL ÜRÜNE <br>%100 DESTEK</span></li>
+                <li><span class="icon iconSecurity">ÖDEME <br>KORUMA SİSTEMİ</span></li>
+                                <li><span class="icon iconPointer">İNTERNETTE <br>GÜVENLİ ALIŞVERİŞ</span></li>
+            </ul>
+        </div>
+    </div>
+</header>
+            <div id="contentWrapper">
+				<div class="container container_1180">
+	        	
+
+<input type="hidden" class="module" value="registration">
+
+
+
+<div id="breadCrumb" class="">
+    <ul>
+                    <li>
+                <a href="https://qa.n11.com/" title="Ana Sayfa">
+                    Ana Sayfa
+                </a>
+            </li>
+                                                        <li>
+                                            <span class="breadIcon"></span>
+                                                                <a href="https://qa.n11.com/uye-ol" title="Üye Ol">
+                            Üye Ol
+                        </a>
+                    
+                                    </li>
+                        </ul>
+</div>
+
+
+<div errormessagefor="email"></div>
+
+<div id="content" class="form registerForm ">
+
+    
+
+
+    
+    
+        <div id="rTopInven">
+                        <a href="https://www.n11.com/kampanyalar/uyelik-kampanyasi" title="Üyelik Kampanyası">
+    <img src="https://n11scdn.akamaized.net/a1/org/15/04/02/76/28/35/84/40/59/14/89/00/17750227083070685375.jpg" alt="Üyelik Kampanyası">
+</a>
+
+                                        
+        </div>
+    
+
+    <div class="registerFormMainContainer">
+
+        <div class="facebookQuickRegister">
+            
+                
+            
+
+            
+                
+            
+            
+                
+                    
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    
+                    
+                
+            
+            
+                
+                    
+                        
+                    
+                    
+                        
+                            
+                            
+                                
+                            
+                        
+                    
+                
+            
+                            <h1 class="hTitle">
+                    n11.com'a Üye Olun
+                </h1>
+                <div class="subTitle">
+                    Size özel kupon, indirim ve diğer avantajlardan yararlanın.
+                </div>
+                                            <a class="quickLogin " href="https://mobcon.turkcell.com.tr/mobileconnect/oauth/authorize?client_id=n11&amp;scope=openid%20phone%20email%20profile&amp;redirect_uri=https%3A%2F%2Fqa.n11.com%2Fmobileconnect%2FauthorizeCallback&amp;response_type=code&amp;state=State0.Wf0tiSwIT0PBImBFlZO&amp;nonce=Nonce0.wLNOmZ6IG7DOvqNwota&amp;prompt=login&amp;acr_values=2&amp;display=page&amp;ui_locales=tr&amp;claims_locales=tr">
+                        <i class="quickIcon"></i>
+                    </a>
+                                
+
+    <div class="facebook_large medium facebookBtn btnSignUp" data-connecturl="https://qa.n11.com/social/facebookRouter?source=WEB_REGULAR_FB&amp;scope=email,user_birthday"><i></i>
+        Facebook ile Üye Ol
+    </div>
+
+
+                <div class="subSeperator">
+                    <span>
+                        veya
+                    </span>
+                </div>
+            
+        </div>
+
+                    <h1 class="header">
+                E-Posta ile Üye Ol
+            </h1>
+        
+        
+        <div>
+            <form id="registerForm" action="https://qa.n11.com/uye-ol" method="post" autocomplete="off" name="registrationForm" class="registerPage">
+
+                                                 <input type="hidden" name="guestToken" value="">
+                
+
+
+<div class="inputField ">
+    <input type="text" name="firstName" id="firstName" value="" autocomplete="off" data-minlength="2" data-maxlength="30" data-validation="required minlength maxlength" data-required-message="Lütfen ad girin." data-minlength-message="Adınız en az {0} karakter uzunluğunda olmalıdır." data-maxlength-message="Adınız en fazla {0} karakter uzunluğunda olmalıdır." required="">
+
+    <label for="firstName">
+        Adı <span class="required">*</span>
+    </label>
+    <div class="errorMessage" data-errormessagefor="firstName">
+        <span class="top-arrow"></span>
+        <div class="errorText"></div>
+    </div>
+</div>
+
+<div class="inputField ">
+
+    <input type="text" name="lastName" id="lastName" autocomplete="off" data-validation="required minlength maxlength" data-minlength="2" data-maxlength="30" data-required-message="Lütfen soyadı girin." data-minlength-message="Soyadınız en az {0} karakter uzunluğunda olmalıdır." data-maxlength-message="Soyadınız en fazla {0} karakter uzunluğunda olmalıdır." value="" required="">
+    <label for="lastName">
+        Soyadı <span class="required">*</span>
+    </label>
+    <div class="errorMessage" data-errormessagefor="lastName">
+        <span class="top-arrow"></span>
+        <div class="errorText"></div>
+    </div>
+</div>
+
+<div class="inputField emailfield">
+        <input type="text" id="registrationEmail" name="email" value="" autocomplete="off" maxlength="48" data-validation="required email maxlength remote" data-remote="https://qa.n11.com/uyelik/emailkayitli" data-maxlength="48" data-remote-message="Bu e-posta adresi daha önce sisteme kayıt olmuştur." data-required-message="E-Posta alanı boş olamaz." required="" class="val-succeed">
+        <label for="registrationEmail">
+            E-Posta Adresi <span class="required">*</span>
+        </label>
+
+        <div class="errorMessage registrationEmailFieldErrorMessage" data-errormessagefor="registrationEmail">
+            <span class="top-arrow"></span>
+            <div class="errorText"></div>
+        </div>
+</div>
+<!-- mobile connect password area -->
+
+
+<div class="inputField passwordField ">
+    <input type="password" name="password" id="registrationPassword" autocomplete="off" data-validation="required minlength maxlength strongpassword confirmpassword" data-confirmpassword="passwordAgain" data-minlength="6" data-maxlength="15" data-required-message="Lütfen yeni şifrenizi girin." data-minlength-message="Şifreniz en az {0} karakter uzunluğunda olmalıdır." data-maxlength-message="Şifreniz en fazla {0} karakter uzunluğunda olmalıdır." required="">
+    <label for="registrationPassword">
+        Şifre <span class="required">*</span>
+    </label>
+    <div class="errorMessage" data-errormessagefor="registrationPassword">
+        <span class="top-arrow"></span>
+        <div class="errorText"></div>
+    </div>
+</div>
+
+<div class="inputField ">
+
+        <input type="password" name="passwordAgain" id="passwordAgain" autocomplete="off" data-validation="required minlength maxlength confirmpassword" data-confirmpassword="registrationPassword" data-minlength="6" data-maxlength="15" data-required-message="Şifre tekrar alanı boş olamaz." data-confirmpassword-message="Lütfen şifrenizi doğrulayın." data-minlength-message="Şifreniz en az {0} karakter uzunluğunda olmalıdır." data-maxlength-message="Şifreniz en fazla {0} karakter uzunluğunda olmalıdır." required="">
+        <label for="passwordAgain">
+            Şifre (Tekrar) <span class="required">*</span>
+        </label>
+        <div class="errorMessage" data-errormessagefor="passwordAgain">
+            <span class="top-arrow"></span>
+            <div class="errorText"></div>
+        </div>
+</div>
+
+<div class="inputField " id="phoneContainer">
+
+    <input type="text" id="phoneNumber" name="phoneNumber" class="phone" value="" autocomplete="off">
+    <label for="phoneNumber">
+        Cep Telefonu
+    </label>
+    <div class="errorMessage" data-errormessagefor="userPhoneNumber">
+        <span class="top-arrow"></span>
+        <div class="errorText"></div>
+    </div>
+</div>
+<div class="inputField genderField">
+    <div class="genderContainer">
+        <div class="genderArea selected">
+            <input type="radio" id="genderMale" name="gender" value="M" data-validation="radiocheck">
+            <span class="checkmark"></span>
+            <label for="genderMale">Erkek</label>
+        </div>
+        <div class="genderArea">
+            <input type="radio" id="genderFemale" name="gender" value="F">
+            <span class="checkmark"></span>
+            <label for="genderFemale">Kadın</label>
+        </div>
+        <div class="genderArea">
+            <input type="radio" id="genderUnknown" name="gender" value="U">
+            <span class="checkmark"></span>
+            <label for="genderUnknown" class="genderArea-two-line">Belirtmek istemiyorum</label>
+        </div>
+    </div>
+    <div class="errorMessage" data-errormessagefor="genderMale">
+        <span class="top-arrow"></span>
+        <div class="errorText"></div>
+    </div>
+</div>
+<div class="inputField birthDate">
+    <div>
+        <label for="birthDay">
+            Doğum Tarihi
+        </label>
+        <select id="birthDay" name="birthDay" class="day">
+            <option value="0">
+                Gün
+            </option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="25">25</option>
+                        <option value="26">26</option>
+                        <option value="27">27</option>
+                        <option value="28">28</option>
+                        <option value="29">29</option>
+                        <option value="30">30</option>
+                        <option value="31">31</option>
+                    </select>
+        <select id="birthMonth" name="birthMonth" class="month">
+            <option value="0">
+                Ay
+            </option>
+                        <option value="1">Ocak</option>
+                        <option value="2">Şubat</option>
+                        <option value="3">Mart</option>
+                        <option value="4">Nisan</option>
+                        <option value="5">Mayıs</option>
+                        <option value="6">Haziran</option>
+                        <option value="7">Temmuz</option>
+                        <option value="8">Ağustos</option>
+                        <option value="9">Eylül</option>
+                        <option value="10">Ekim</option>
+                        <option value="11">Kasım</option>
+                        <option value="12">Aralık</option>
+                    </select>
+        <select id="birthYear" name="birthYear" class="year">
+            <option value="0">
+                Yıl
+            </option>
+                        <option value="2001">2001</option>
+                        <option value="2000">2000</option>
+                        <option value="1999">1999</option>
+                        <option value="1998">1998</option>
+                        <option value="1997">1997</option>
+                        <option value="1996">1996</option>
+                        <option value="1995">1995</option>
+                        <option value="1994">1994</option>
+                        <option value="1993">1993</option>
+                        <option value="1992">1992</option>
+                        <option value="1991">1991</option>
+                        <option value="1990">1990</option>
+                        <option value="1989">1989</option>
+                        <option value="1988">1988</option>
+                        <option value="1987">1987</option>
+                        <option value="1986">1986</option>
+                        <option value="1985">1985</option>
+                        <option value="1984">1984</option>
+                        <option value="1983">1983</option>
+                        <option value="1982">1982</option>
+                        <option value="1981">1981</option>
+                        <option value="1980">1980</option>
+                        <option value="1979">1979</option>
+                        <option value="1978">1978</option>
+                        <option value="1977">1977</option>
+                        <option value="1976">1976</option>
+                        <option value="1975">1975</option>
+                        <option value="1974">1974</option>
+                        <option value="1973">1973</option>
+                        <option value="1972">1972</option>
+                        <option value="1971">1971</option>
+                        <option value="1970">1970</option>
+                        <option value="1969">1969</option>
+                        <option value="1968">1968</option>
+                        <option value="1967">1967</option>
+                        <option value="1966">1966</option>
+                        <option value="1965">1965</option>
+                        <option value="1964">1964</option>
+                        <option value="1963">1963</option>
+                        <option value="1962">1962</option>
+                        <option value="1961">1961</option>
+                        <option value="1960">1960</option>
+                        <option value="1959">1959</option>
+                        <option value="1958">1958</option>
+                        <option value="1957">1957</option>
+                        <option value="1956">1956</option>
+                        <option value="1955">1955</option>
+                        <option value="1954">1954</option>
+                        <option value="1953">1953</option>
+                        <option value="1952">1952</option>
+                        <option value="1951">1951</option>
+                        <option value="1950">1950</option>
+                        <option value="1949">1949</option>
+                        <option value="1948">1948</option>
+                        <option value="1947">1947</option>
+                        <option value="1946">1946</option>
+                        <option value="1945">1945</option>
+                        <option value="1944">1944</option>
+                        <option value="1943">1943</option>
+                        <option value="1942">1942</option>
+                        <option value="1941">1941</option>
+                        <option value="1940">1940</option>
+                        <option value="1939">1939</option>
+                        <option value="1938">1938</option>
+                        <option value="1937">1937</option>
+                        <option value="1936">1936</option>
+                        <option value="1935">1935</option>
+                        <option value="1934">1934</option>
+                        <option value="1933">1933</option>
+                        <option value="1932">1932</option>
+                        <option value="1931">1931</option>
+                        <option value="1930">1930</option>
+                        <option value="1929">1929</option>
+                        <option value="1928">1928</option>
+                        <option value="1927">1927</option>
+                        <option value="1926">1926</option>
+                        <option value="1925">1925</option>
+                        <option value="1924">1924</option>
+                        <option value="1923">1923</option>
+                        <option value="1922">1922</option>
+                        <option value="1921">1921</option>
+                        <option value="1920">1920</option>
+                    </select>
+    </div>
+    <div class="errorMessage" data-errormessagefor="birthDay">
+        <span class="top-arrow"></span>
+        <div class="errorText"></div>
+    </div>
+</div>
+
+
+
+                
+
+<div class="inputfield buyerAgreement ">
+    <div class="checkbox">
+        <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir.">
+        <label for="acceptContract">
+            <a href="javascript:;" class="link userAgreementsModal">
+                Üyelik Sözleşmesi
+            </a>
+                şartlarını okudum ve kabul ediyorum.
+        </label>
+    </div>
+    <div class="errorMessage" data-errormessagefor="acceptContract">
+        <span class="top-arrow"></span>
+        <div class="errorText"></div>
+    </div>
+</div>
+
+
+<div class="inputfield buyerAgreement smsAndCampaign">
+    <div class="checkbox">
+        <input type="checkbox" name="sendPromotionalMailAndSms" id="sendPromotionalMailAndSms" data-val="false">
+        <label for="sendPromotionalMailAndSms">
+            Tarafımla pazarlama ve tanıtım amaçlı iletişime geçilmesine izin veriyorum.
+            <i class="iconQuestion">
+                <span class="tooltip bottom">
+                    <i class="arrow-bottom"></i>KVKK kapsamında, n11.com Kişisel Verilerin Korunması ve İşlenmesi şartlarını okudum ve kabul ediyorum.
+                    <span class="detail">
+                        <p>Paylaştığınız kişisel bilgilerinizin; tanıtım, satış, pazarlama vb. amaçlı her türlü iletişim faaliyetinin bildirimi amacıyla saklanmasına ve kullanılmasına izin verdiniz. Detaylı bilgi için <a href="https://www.n11.com/genel/gizlilik-politikasi-61304" target="_blank">Gizlilik Politikası</a></p>
+                    </span>
+                </span>
+            </i>
+        </label>
+    </div>
+</div>
+
+
+
+
+            <div class="formfield captcha ">
+            <div>
+                <label>Güvenlik Kodu</label>
+                <div class="captcha">
+                    <span>Aşağıdaki resimde yer alan kodu giriniz.</span>
+                    <img id="captchaImage" class="captchaImage" src="//qa.n11.com/captcha/1.png?sessionId=eccd387b-b5d8-47e3-bf86-d266efcf8e4914e9944d-4bfc-40ff-bf42-482e9dfe928f&amp;key=1575437034703">
+                    <a id="refreshCaptcha" class="captchaRefresh">resmi yenile</a>
+                    <input type="text" name="captchaText" id="captchaText" data-validation="required" data-required-message="Güvenlik kodu boş olamaz.">
+                </div>
+            </div>
+            
+                <div class="errorMessage" data-errormessagefor="captchaText">
+                    <span class="top-arrow"></span>
+                    <div class="errorText">Lütfen güvenlik kodunu girin.</div>
+                </div>
+                    </div>
+
+        <input type="hidden" id="showCaptcha" value="true">
+    <input type="hidden" id="sessionId" value="eccd387b-b5d8-47e3-bf86-d266efcf8e4914e9944d-4bfc-40ff-bf42-482e9dfe928f">
+    <input type="hidden" class="module" value="captcha">
+
+
+<div class="black large medium submitBtn" id="submitButton">
+    Üye Ol
+</div>
+
+<input type="hidden" name="token" value="qTnMajoSJUItVrnMmrOlLDZFQjMdNK">
+
+            </form>
+        </div>
+    </div>
+        <div id="rightColumnContainer">
+        <form id="loginForm" class="well form-horizontal" action="https://qa.n11.com/giris-yap" method="post">
+        <div class="loginBoxN">
+            <h2>Zaten Üye misiniz?
+            </h2>
+
+            
+                
+                    
+                        
+                    
+                    
+                           
+                    
+                        
+                        
+                    
+                
+            
+            
+                
+                    
+                        
+                    
+                    
+                           
+                    
+                        
+                        
+                    
+
+                    
+                        
+                    
+
+                    
+                        
+                    
+
+                
+            
+           
+            <div id="loginButton" class="medium green floatR">
+                Giriş Yap
+            </div>
+        </div>
+                </form>
+    </div>
+    </div>
+
+
+
+
+
+
+<div id="buyerExplicitConsentModal" class="popupWrapper privacyAndKvkkModal">
+    <div class="popupContent">
+        <span class="closeBtn closePopup"></span>
+        <div class="message"><div class="aggrement static">
+<h1>DOĞUŞ PLANET ELEKTRONİK TİCARET VE BİLİŞİM HİZMETLERİ ANONİM ŞİRKETİ
+KİŞİSEL VERİLERİN KORUNMASI VE İŞLENMESİ ÜYE MÜŞTERİ AÇIK RIZA METNİ</h1>
+<p></p>
+<p></p>
+
+<p>Doğuş Planet Elektronik Ticaret ve Bilişim Hizmetleri Anonim Şirketi <b>Üye Müşteri Kişisel Verilerinin Korunması ve İşlenmesi Aydınlatma Metni’ni okudum ve bu kapsamda: </b></p>
+
+	<p><b>özel nitelikli kişisel verilerimin</b> (örneğin, +18 ürünleri, sağlık ürünleri vb.) , dijital ve/veya diğer mecralarda toplanan müşteri talep ve/veya şikayetlerinin değerlendirilmesi, hukuk işlerinin takibi, resmi kurum ve/veya kuruşlara mevzuattan kaynaklı yükümlülükler kapsamında bilgi verilmesi, talep edilen bilgi ve belgelerin sunulması ve/veya yanıtların kayıt altına alınması ve Şirket içi talep yönetimi süreçlerinin planlanması ve/veya icrası,</p><p>
+
+	</p><p><b>kişisel verilerimin, kampanya ve/veya promosyon ve/veya tanıtım süreçlerinin planlanması ve/veya icrası, müşterilerin tüketici davranışı kriterleri doğrultusunda tespiti ve/veya değerlendirilmesi, kişiye özel pazarlama (segmentasyon, profilleme vb.) ve/veya tanıtım aktivitelerinin tasarlanması ve/veya icrası, dijital ve/veya diğer mecralarda reklam ve/veya tanıtım faaliyetleri kapsamında pazarlama aktivitelerinin tasarlanması ve/veya icrası, dijital ve/veya diğer mecralarda müşteri kazanım ve/veya mevcut müşterilerde değer yaratımı üzerine geliştirilecek aktivitelerin tasarlanması ve/veya icrası, pazarlama amacıyla veri analitiği ve/veya veri zenginleştirme çalışmalarının planlanması ve/veya icrası, Şirketinizce sunulan diğer ürünlerle ilgili çapraz satış aktivitelerinin planlanması ve/veya icrası, </b></p>
+
+<p><b>amaçlarıyla işlenmesini ve bu amaçlarla yurt içinde veya yurt dışında yerleşik</b> tedarikçilerimize, iş/çözüm ortaklarımıza ve <b>kanunen yetkili kamu ve özel kurum ve kuruluşlarına aktarılmasını kabul ediyorum.</b></p>
+
+<p><b>“Üçüncü Kişilerin Kişisel Verilerinin Aktarımına İlişkin Taahhüt”</b></p>
+
+
+<p>Üçüncü bir kişi hakkında Şirketinize bilgi sağladığımda söz konusu kişinin, Kişisel Verilerin Korunması Kanunu kapsamında veri işlemeye rıza verme ve yapılan gizlilik bildirimlerini kabul etme konusunda tarafımı yetkilendirmiş olduğunu kabul ve beyan ederim.</p>
+
+</div>
+
+</div>
+    </div>
+</div>
+
+
+
+<div id="privacyNoticeAgreementModal" class="popupWrapper privacyAndKvkkModal">
+    <div class="popupContent">
+        <span class="closeBtn closePopup"></span>
+        <div class="message">
+
+
+<meta charset="UTF-8">
+<title>Aydınlatma Metni</title>
+
+
+
+<link rel="stylesheet" href="https://n11scdn.akamaized.net/custom/guide/style/css/guide.css?v=1.0">
+<style>
+
+    .themeModules {
+		font-family: Arial;
+		font-size: 13px;
+        padding: 34px !important;
+    }
+
+    .themeModules h2 {
+        font-size: 22px;
+        font-family: 'museo-500';
+        padding: 0 0 8px 0;
+        line-height: 1.56em;
+    }
+
+    .themeModules h3 {
+        font-size: 16px;
+        font-family: 'museo-500';
+    }
+
+    .themeModules p {
+        font-size: 15px;
+        line-height: 1.72em;
+        padding: 16px 0;
+    }
+
+    .themeModules a {
+        color: #06c;
+    }
+
+    .themeModules ul {
+        list-style: disc;
+        margin: 0 0 0 20px;
+    }
+
+    .themeModules li {
+        font-size: 15px;
+        line-height: 1.72em;
+        padding: 2px 0;
+    }
+
+</style>
+<section class="themeModules" data-bg="true" data-layout="fixed">
+  <h2>DOĞUŞ PLANET ELEKTRONİK TİCARET VE BİLİŞİM HİZMETLERİ ANONİM ŞİRKETİ ÜYE MÜŞTERİ KİŞİSEL VERİLERİNİN KORUNMASI VE İŞLENMESİ AYDINLATMA METNİ (“Aydınlatma Metni”)</h2>
+  <h3>1. VERİ SORUMLUSU</h3>
+  <p>Kişisel verileriniz veri sorumlusu sıfatıyla Doğuş Planet Elektronik Ticaret ve Bilişim Hizmetleri Anonim Şirketi (<strong>Şirket</strong>) tarafından, 6698 sayılı Kişisel Verilerin Korunması Kanunu (<strong>Kanun</strong>) uyarınca aşağıda açıklanan kapsamda işlenebilecektir.</p>
+  <p>Kişisel verilerinizin Şirketimiz tarafından işlenme amaçları konusunda detaylı bilgiler, <a href="https://www.n11.com/genel/gizlilik-politikasi-61304" title="Gizlilik Politikası">https://www.n11.com/genel/gizlilik-politikasi-61304</a>’den erişilebilen Doğuş Planet Elektronik Ticaret ve Bilişim Hizmetleri Anonim Şirketi Kişisel Verilerin Korunması ve İşlenmesi Politikası'nda yer almaktadır.</p>
+  <h3>2. KİŞİSEL VERİLERİNİZİN İŞLENME AMACI</h3>
+  <p>Toplanan kişisel verileriniz, Kanun'da öngörülen temel ilkelere uygun olarak ve Kanun'un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları dahilinde, Şirketimizin ve Şirketimizle iş ilişkisi içerisinde olan ilgili kişilerin hukuki ve teknik güvenliğinin temini faaliyetlerinin planlanması ve/veya icrası, Şirket tarafından ve/veya Şirketimiz nam ve hesabına sunulan ürün ve hizmetlerin ilgili kişilerin <br>
+    için gerekli olan aktivitelerin planlanması ve/veya icrası, Şirketimiz tarafından ve/veya Şirketimiz nam ve hesabına sunulan ürün ve/veya hizmetlerden ilgili kişileri faydalandırmak için gerekli çalışmaların yapılması ve ilgili iş süreçlerinin yürütülmesi, Şirketimiz tarafından yürütülen ticari ve/veya operasyonel faaliyetlerin gerçekleştirilmesi için ilgili iş birimlerimiz tarafından gerekli çalışmaların yapılması ve buna bağlı iş süreçlerinin yürütülmesi ve Şirketimizin ticari ve/veya iş stratejilerinin planlanması ve/veya icrası amaçlarıyla ("Amaçlar") işlenebilecektir.</p>
+  <h3>3. <strong>KİŞİSEL VERİLERİNİZİN AKTARILDIĞI TARAFLAR VE AKTARIM AMAÇLARI</strong></h3>
+  <p>Toplanan kişisel verileriniz, Kanun'da öngörülen temel ilkelere uygun olarak ve Kanun'un 8. ve 9. maddelerinde belirtilen kişisel veri işleme şartları dahilinde, Şirketimiz tarafından Amaçlar kapsamında yurt içinde veya yurt dışında yerleşik tedarikçilerimize, iş/çözüm ortaklarımıza ve kanunen yetkili kamu ve özel kurum ve kuruluşlarına aktarılabilecektir.</p>
+  <h3>4. <strong>KİŞİSEL VERİLERİNİZİN TOPLANMA YÖNTEMİ VE HUKUKİ SEBEBİ</strong></h3>
+  <p>Kişisel verileriniz Şirketimiz tarafından e-posta, telefon, kargo/posta, internet sitemiz, sosyal medya, mobil uygulamalarımız, mobil internet sitemiz ve talep/şikayet platformları kanallarıyla (yöntemleriyle) ve elektronik ve/veya fiziki ortamdan üyelik / kayıt oluşturulması, ürün ve/veya hizmetlerin satışı, sunulması ve/veya takibi, taleplerin / şikayetlerin değerlendirilmesi ile kampanya / yarışma katılım taleplerinin alınması amaçlarıyla toplanacaktır. Toplanan kişisel verileriniz Kanun'un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları kapsamında işbu Aydınlatma Metni'nde belirtilen amaçlarla işlenebilmekte ve aktarılabilmektedir.</p>
+  <h3>5. <strong>KİŞİSEL VERİ SAHİBİ OLARAK KANUN’UN 11. MADDESİNDE SAYILAN HAKLARINIZ</strong></h3>
+  <p>Kişisel veri sahibi olarak Kanun'un 11. maddesi uyarınca aşağıdaki haklara sahip olduğunuzu bildiririz. Ayrıca, Doğuş Planet tarafından işletilen elektronik ticaret platformlarının web sitesi veya mobil uygulamasında yer alan Kanun’un 13. maddesi &nbsp;uyarınca düzenlenen “Başvuru Formu”’nda belirtilen yöntemlerle başvurunuzu yapabilir ve haklarınızı kullanabilirsiniz.</p>
+  <ul>
+    <li>Kişisel verilerinizin işlenip işlenmediğini öğrenme,</li>
+    <li>Kişisel verileriniz işlenmişse buna ilişkin bilgi talep etme,</li>
+    <li>Kişisel verilerinizin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,</li>
+    <li>Yurt içinde veya yurt dışında kişisel verilerinizin aktarıldığı üçüncü kişileri bilme,</li>
+    <li>Kişisel verilerinizin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,</li>
+    <li>Kanun'a ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerin silinmesini veya yok edilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme,</li>
+    <li>İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkması durumunda buna itiraz etme,</li>
+    <li>Kişisel verilerinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme.</li>
+  </ul>
+</section>
+
+
+</div>
+    </div>
+</div>
+
+<div id="forgotPasswordModalWrapper" class="popupWrapper forgotPassword"> </div>
+
+
+<!-- Segment Pixel - N11 - Uyelik Target - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=754845,754846,468145&amp;t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+
+
+	        	</div>
+	        </div>
+
+            
+<footer id="footer" class="simple">
+    <div class="container">
+        <div class="fBottom">
+            <a href="https://www.dogusgrubu.com.tr" class="iconLogo iconLogoDogus" title="Doğuş Grubu" rel="nofollow" target="_blank"></a>
+            <span class="seperator"></span>
+            <a href="http://www.sk.com/" class="iconLogo iconLogoSK" title="SK Planet" rel="nofollow" target="_blank"></a>
+            <div class="legalRules">
+                
+<span class="copyright">© Telif Hakkı 2012-2019 n11.com</span>
+                <div>
+                    <a rel="nofollow" href="https://www.n11.com/genel/gizlilik-politikasi-61304" title="Gizlilik ve Kişisel Verilerin Korunması Politikası ">Gizlilik ve Kişisel Verilerin Korunması Politikası </a>
+                    <a rel="nofollow" href="https://www.n11.com/genel/kullanim-sozlesmesi-61305" title="Kullanım Koşullarımız">Kullanım Koşullarımız</a>
+                </div>
+            </div>
+
+            
+            <span class="iconLogo iconLogoPci fRight"></span>
+            <span class="iconLogo iconLogoBKM fRight"></span>
+            <span class="iconLogo iconLogoTroy fRight"></span>
+            <span class="iconLogo iconLogoAmex fRight"></span>
+            <span class="iconLogo iconLogoVisa fRight"></span>
+            <span class="iconLogo iconLogoMaster fRight"></span>
+        </div>
+    </div>
+</footer>
+
+        </div>
+        <div class="hidden">
+            
+
+		    	    <style type="text/css">
+.ykbPayContainer {
+
+  margin: 20px 0;
+  padding-top:80px;
+  padding-left:40px;
+  padding-right: 40px;
+  .clearfix;
+
+}
+
+.ykbPayIcon {
+    width: 219px;
+    margin: 14px;
+    height: 39px;
+	background-image: url('data:image/png;base64,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');
+}
+</style>
+	
+        </div>
+	    <div class="popupOverlay" style="display: block;"></div>
+	     
+
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+        
+        var _env = "qa";
+        var mallFrontRoot = "//qa.n11.com";
+        var envSpecificMFRoot = "//qa.n11.com";
+        var mallFrontBaseRoot = "//qa.n11.com";
+        var staticRoot = "https://qastatic.n11.com/static";
+        var noImagePath = staticRoot + '/images/layout/no-image.jpg';
+
+        var onProductImageError = function(img) {
+        img.src = noImagePath;
+        };
+
+
+        var partFinderEnabled = true;
+        var localizationEnabled = true;
+        var realTimeActive = 'true';
+        var isDevMode = false;
+        var _curDate = 1575436938611;
+
+        var isPageFashion11 = isPageFashion11 || false;
+        var isPageTicket = isPageTicket || false;
+        var showBracesOnBasketHolder = showBracesOnBasketHolder || false;
+        var recommendationEnabled = true;
+        var getLabel = function (key) {
+            return dmallLabels[key] || '';
+        };
+
+        var realTimeCountServiceConfig = {
+            campaignCountServiceEnabled : true,
+            productCountServiceEnabled : true,
+            promotionCountServiceEnabled : true,
+            shockingCampaignCountServiceEnabled : true
+        };
+
+        var userAuthenticated = false;
+        var userProfile = userProfile || {};
+
+    /*]]>*/
+</script>
+
+
+
+
+<script type="text/javascript">
+    /*<![CDATA[*/
+    var sopa = sopa || {};
+    sopa.themePath = 'https://qastatic.n11.com/static/css/sopa';
+    /*]]>*/
+</script>
+
+
+<script type="text/javascript" src="https://qastatic.n11.com/static/js/third_party/jquery-1.8.3.min.js"></script>
+
+
+
+<div id="thirdParty">
+    
+<!-- Visilabs -->
+<script type="text/javascript">
+    /*<![CDATA[*/
+            var visilabsEnv = 'n11comtest';
+        var visilabsSiteID = '493950324A4167736F35493D';
+        /*]]>*/
+</script>
+
+    <script type="text/javascript" src="https://qastatic.n11.com/static/js/third_party/visilabs/visilabs.min.js?v=2"></script>
+<!-- End Visilabs -->
+
+
+    
+
+    
+
+
+    
+
+    
+<script type="text/javascript">
+    var _haq = _haq || { };
+    _haq.acc = 'HA-APP-N11';
+    _haq.rootUrl = '//qah.n11.com/';
+</script>
+
+    
+
+    </div>
+
+
+
+<script type="text/javascript" src="https://qastatic.n11.com/static/js/compiled_30343132323031393036.js" async=""></script>
+
+
+        
+<input type="hidden" id="hasNotification" value="false">
+<input type="hidden" class="module" value="flashNotification">
+
+
+        
+
+
+        <div id="loadingBar" style="width: 0px; display: none;"></div>
+        
+<div id="fb-root"></div>
+<script>
+    var facebookAppId = '166918870177161';
+    var facebookChannelUrl = '//qa.n11.com';
+</script>
+        <!-- Making Optimize -->
+        
+        <!-- Making Optimize -->
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TV7RCD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    
+<script type="text/javascript" id="" src="//cdn.segmentify.com/account-js/segmentify_n11.qa.js"></script><script type="text/javascript" id="">(function(){var a="registerForm",c="name",b=[];window.addEventListener("beforeunload",function(){b.length&&window.dataLayer.push({event:"formAbandonment",eventCategory:"Form Abandonment",eventAction:b.join(" \x3e ")})});document.querySelector(a).addEventListener("change",function(a){b.push(a.target.getAttribute(c))})})();</script>
+<div class="ui-suggest-container" style="min-width: 332px; top: 931px; left: 295px; display: none;"></div><div id="userAgreementModal" class="popupWrapper" style="margin-top: -281.5px; margin-left: -306px; top: 50%; left: 50%; display: block;">
+    <div class="popupContent">
+        <span class="closeBtn closePopup"></span>
+        <span class="title">Üyelik Sözleşmesi Koşulları</span>
+        <div class="message"><div class="aggrement static">
+    <h1>ÜYELİK SÖZLEŞMEMİZ’DEKİ GÜNCEL DEĞİŞİKLİKLER</h1>
+    <p>Üyelik Sözleşmemiz’de 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında birtakım değişiklikler yapılmıştır. Kişisel Verilerin Korunması Kanunu kapsamında değiştirilen “Gizlilik ve Çerez Politikalarımız”da yapılan değişikliklere ilişkin kısa bilgiyi aşağıda görebilirsiniz.</p>
+    <p>Üyelik Sözleşmemiz’deki Güncel Değişiklikler</p>
+    <ul class="disc">
+        <li>Gizlilik Politikamızda yaptığımız güncelleme kapsamında ayrı bir politika haline getirilen "Çerez (Cookie) Politikası"na ilişkin olarak Üyelik Sözleşmesi’ne "Çerez Politikası" kavramı eklenmiştir.</li>
+        <li>Üyelik Sözleşmesi’ne "Misafir"* tanımı eklenerek kişisel verilerin n11.com’a üye olmaksızın giren kullanıcılara da belirli avantajlar sunulması amacıyla gerekli bilgilerin alınıp işlenebildiği belirtilmiştir.</li>
+        <li>"Gizlilik" maddesinin ismi "Gizlilik ve Kişisel Verilerin Korunması" olarak değiştirilerek Kişisel Verilerin Korunması Kanunu kapsamında n11.com kullanıcılarının sahip olduğu haklar ile Doğuş Planet’in kişisel verileri işleme amaç ve şekillerine ilişkin olarak Gizlilik Politikası’na yönlendirme yapılmıştır.</li>
+    </ul>
+    <p>Güncellenen Üyelik Sözleşmemiz’i aşağıda detaylı inceleyebilirsiniz. Gizlilik Politikası’na <a href="https://www.n11.com/genel/gizlilik-politikasi-61304" target="_blank">buradan</a> ulaşabilirsiniz.</p>
+
+    <br>
+    <h1>ÜYELİK SÖZLEŞMESİ</h1>
+    <div class="text">
+        <h2>1. TARAFLAR</h2>
+        <ul>
+            <li><strong>1.1.</strong> <span>İşbu üyelik sözleşmesi ("<b>Üyelik Sözleşmesi</b>") merkezi Huzur Mah. Maslak Ayazağa Cad. 4B Sarıyer / İSTANBUL 34396 adresinde bulunan Doğuş Planet Elektronik Ticaret ve Bilişim Hizmetleri A.Ş. ("<b>DP</b>") ile Üye ("<b>Üye</b>") arasında, Üye’nin DP’nin Websitesi’nde sunduğu Hizmetler’den yararlanmasına ilişkin koşulların belirlenmesi için akdedilmiştir.</span>
+            </li>
+            <li><strong>1.2.</strong> <span>DP ve Üye işbu Üyelik Sözleşmesi’nde münferiden "<b>Taraf</b>" ve müştereken "<b>Taraflar</b>" olarak anılacaklardır.</span></li>
+        </ul>
+
+        <h2>2. TANIMLAR</h2>
+        <ul>
+            <li><strong>Çerez (Cookie) Politikası</strong> <span>Websitesi’nin fonksiyonel işlerliğini sağlamak, Üyeler’in alışveriş deneyimini iyileştirmek ve Üyeler’in Websitesi’ni ziyaretlerine ilişkin bilgiler doğrultusunda tercih ve beğenilerine uygun içerik sunmak amacıyla kullanılan çerezler hakkında bilgilendirme içeren ve Websitesi üzerinden  (<a href="https://www.n11.com/genel/gizlilik-politikasi-61304" target="_blank">https://www.n11.com/genel/gizlilik-politikasi-61304</a>) erişilebilecek olan metni ifade eder.</span></li>
+            <li><strong>Gizlilik ve Kişisel Verilerin Korunması Politikası</strong> <span>Üyeler’in Websitesi üzerinden ilettikleri kişisel verilerin, DP tarafından hangi amaçlarla ve ne şekilde kullanılacağı gibi konular da dahil olmak üzere DP’nin kişisel verilere ilişkin genel gizlilik politikasını düzenleyen ve Websitesi üzerinden (<a href="https://www.n11.com/genel/gizlilik-politikasi-61304" target="_blank">https://www.n11.com/genel/gizlilik-politikasi-61304</a>) erişilebilecek olan metni ifade eder.</span></li>
+            <li><strong>Hesabım Sayfası</strong>
+                <span>Üye’nin Websitesi’nde yer alan çeşitli uygulamalardan ve Hizmetler’den yararlanabilmesi için gerekli işlemleri gerçekleştirebildiği, kişisel verilerini ve uygulama bazında kendisinden talep edilen bilgilerini girdiği sadece ilgili Üye tarafından belirlenen kullanıcı adı ve şifre ile erişilebilen Üye’ye özel sayfayı ifade eder.</span></li>
+            <li><strong>Hizmet</strong> <span>Üyeler’in ve Ziyaretçiler’in işbu Üyelik Sözleşmesi içerisinde tanımlı olan iş ve işlemlerini gerçekleştirmelerini sağlamak amacıyla DP ya da DP’nin belirlediği iş ortağı tarafından sunulan hizmet ve uygulamaları ifade eder.</span></li>
+            <li><strong>Sanal Mağaza</strong> <span>DP’nin Websitesi üzerinde DP usul ve kurallarına uygun olarak Satıcılar’a tahsis etmiş olduğu ve Satıcılar’ın bir ya da birden fazla ürün ve/veya hizmetin satışına yönelik içerik ve görsellerden oluşan ilanlarını yayınlayabilme imkânına sahip oldukları sanal alanı ifade eder.</span></li>
+            <li><strong>Satıcı</strong> <span>DP ile yaptığı Satıcı İş Ortaklığı ve İlan Sözleşmesi kapsamında Websitesi’ne üye olan ve Websitesi üzerinde oluşturduğu hesap üzerinden yayınladığı ilanlar aracılığıyla çeşitli ürün ve/veya hizmetleri satışa arz eden tüzel/gerçek kişi üyeyi ifade eder.</span></li>
+            <li><strong>Üye</strong> <span>DP ile yaptığı işbu Üyelik Sözleşmesi kapsamında Websitesi’ne üye olan ve Satıcı tarafından Websitesi üzerinde verilen ilanlarla satışa arz edilen ürün ve/veya hizmetleri satın alan gerçek kişiyi ifade eder.</span></li>
+            <li><strong>Websitesi</strong> <span>Mülkiyeti DP’ye ait olan ve DP’nin işbu Sözleşme ile belirlenen Hizmetler’i üzerinde sunmakta olduğu www.n11.com alan adına sahip internet sitesini, mobil uygulamalarını ve mobil siteyi ifade eder.</span></li>
+            <li><strong>Ziyaretçi</strong> <span>Websitesi’ni Üye olmadan kullanan ve Hizmetler’den faydalanan gerçek kişiyi ifade eder.</span></li>
+        </ul>
+
+        <h2>3. ÜYELİK SÖZLEŞMESİ’NİN KAPSAM VE AMACI</h2>
+        <ul>
+            <li><strong>3.1.</strong> <span>DP, Websitesi’ni işletmekte olup, 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun uyarınca aracı hizmet sağlayıcıdır.</span></li>
+            <li><strong>3.2.</strong> <span>Üyelik Sözleşmesi uyarınca Üye, Websitesi’ne üye olmak, Hizmetler’den faydalanmak ve bu platformda Satıcılar tarafından Sanal Mağazalar’da satılan ürün ve/veya hizmetleri satın almak istemektedir.</span></li>
+            <li><strong>3.3.</strong> <span>Üyelik Sözleşmesi’nin amacını, Hizmetler’den yararlanmasına ilişkin koşulların belirlenmesi ve bu doğrultuda Taraflar’ın hak ve yükümlülüklerinin tespiti oluşturmaktadır. Üyelik Sözleşmesi’nin Üye tarafından kabulü ile Üye, Websitesi’nde yer alan ve yer alacak olan Hizmetler’e, kullanıma, içeriklere, uygulamalara ve Üyeler’e yönelik her türlü beyanı da kabul etmiş olduğunu beyan ve taahhüt eder.</span>
+            </li>
+            <li><strong>3.4.</strong> <span>Şüpheye mahal vermemek adına, işbu Üyelik Sözleşmesi, yalnızca Taraflar arasında olup, Websitesi’nde yer alan ve yer alacak olan Hizmetler’e yönelik şekil ve şartları kapsamaktadır. Üyeler ile Satıcılar arasındaki ilişki işbu Üyelik Sözleşmesi’nin kapsamına girmemektedir ve DP, Üyeler ile Satıcılar arasındaki ilişkiden hiçbir şekilde sorumlu değildir. Üyeler, Sanal Mağaza’dan gerçekleştirecekleri işlemlere ilişkin olarak Satıcılar’a karşı 6502 sayılı Tüketicinin Korunması Hakkında Kanun başta olmak üzere sair mevzuat çerçevesinde haklarını arayabileceklerdir.</span>
+            </li>
+        </ul>
+
+        <h2>4. TARAFLAR’IN HAK VE YÜKÜMLÜLÜKLERİ</h2>
+        <ul>
+            <li><strong>4.1.</strong> <span>Üyelik statüsünün kazanılması için, Üyelik Sözleşmesi’nin onaylanması ve üyelik sayfasında talep edilen bilgilerin doğru ve güncel bilgilerle doldurması gerekmektedir. Üye olmak isteyen kullanıcının 18 (on sekiz) yaşını doldurmuş olması gerekmektedir. Üyelik Sözleşmesi’ni doldururken doğru ve güncel bilgi sağlamayan Üye, bu sebeple doğabilecek tüm zararlardan bizzat sorumludur.</span>
+            </li>
+            <li><strong>4.2.</strong> <span>Üyelik hak ve yükümlülüklerinin hangi kişiye ait olduğu konusunda ihtilaf olması ve bu hususta söz konusu kişilerin DP’den talepte bulunması halinde DP, ilgili Üyelik hesabı kullanılarak herhangi bir Hizmet için DP’ye ödeme yapan en son kişinin Üyelik hesabının sahibi olduğunu kabul ederek, bu doğrultuda işlem yapma hakkına sahiptir.</span>
+            </li>
+            <li><strong>4.3.</strong> <span>DP’nin Websitesi’nde yer alan herhangi bir ürün veya hizmetin satıcısı konumunda olmaması ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun uyarınca yalnızca "aracı hizmet sağlayıcı" ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun uyarınca "yer sağlayıcı" olması sebebiyle; Websitesi’nde yer alan ve kendisi tarafından yayınlanmamış içeriğe ilişkin bir sorumluluğu bulunmamakta ve söz konusu içeriğin hukuka uygun olup olmadığını kontrol etme gibi bir yükümlülüğü bulunmamaktadır. DP, böyle bir yükümlülüğü olmamasına rağmen ve takdiri tamamen kendisine ait olmak üzere, söz konusu içeriği dileği zaman kontrol etme ve gerekli görürse erişime kapatma ve silme hakkına sahiptir. Websitesi’nde yayınladığı herhangi bir görsel, yazılı ve sair içerikle DP’nin ya da üçüncü kişilerin haklarını ihlal eden kişiler, DP’ye ve/veya söz konusu üçüncü kişilere karşı sorumludur. </span>
+            </li>
+            <li><strong>4.4.</strong> <span>Üye, Websitesi üzerinden herhangi bir Satıcı’dan yapacağı alımlarda akdedilecek mesafeli satış sözleşmelerinde Satıcı’nın satıcı taraf, kendisinin ise alıcı taraf olduğunu; DP’nin bahsi geçen mesafeli satış sözleşmesi ilişkisinde taraf olmadığını; dolayısıyla da kendisine karşı sadece Satıcı’nın yürürlükteki tüketici hukuku mevzuatı ve sair mevzuat kapsamında her anlamda bizzat sorumlu olduğunu kabul ve beyan eder. Bu bağlamda Üye, Sanal Mağaza’da sergilenen ve satılan tüm ürünlerin kalitesinden, mevzuata uygunluğundan, garanti belgesi verilmesinden, faturalandırılmasından ve sair diğer gerekli belgenin tesliminden ve satış sonrası gereksinim duyulan servis vs. hizmetlerinden ve ürünlerin süresinde teslim edilmesinden yalnızca Satıcı’nın sorumlu olduğunu kabul ve beyan eder.</span>
+            </li>
+            <li><strong>4.5.</strong>
+                <span>Üye, Websitesi üzerinde gerçekleştirdiği işlemlerde ve yazışmalarda, işbu Üyelik Sözleşmesi’nin hükümlerine, Websitesi’nde belirtilen tüm koşullara, yürürlükteki mevzuata ve ahlak kurallarına uygun olarak hareket edeceğini kabul ve beyan eder. Üye’nin Websitesi dâhilinde yaptığı işlem ve eylemlere ilişkin hukuki ve cezai sorumluluk kendisine aittir.</span>
+            </li>
+            <li><strong>4.6.</strong> <span>DP, yürürlükteki mevzuat uyarınca yetkili makamların talebi halinde, Üye’nin kendisinde bulunan bilgilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca gerekli olduğu takdirde Üye’yi önceden bilgilendirmek suretiyle ve her durumda veri aktarım kurallarına tabi olarak söz konusu makamlarla paylaşabilecektir.</span></li>
+            <li><strong>4.7.</strong> <span>Websitesi’ne üyelik sırasında ve/veya alışveriş sırasında Üyeler’den alınan kişisel veriler, Üye ve/veya Satıcılar arasında sahtecilik, dolandırıcılık, Websitesi’nin kötüye kullanımı, 6100 sayılı Türk Ticaret Kanunu anlamında suç oluşturabilecek konularda çıkan uyuşmazlıklarda, yalnızca talep edilen konu ile sınırlı olmak üzere tarafların yasal haklarını kullanabilmeleri amacıyla, 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca gerekli olduğu takdirde ilgili kişi önceden bilgilendirilmek suretiyle ve her durumda veri aktarım kurallarına tabi olarak uyuşmazlığa taraf olabilecek diğer Üye ve/veya Satıcılar’a iletebilecektir.</span>
+            </li>
+            <li><strong>4.8.</strong> <span>Üye’nin Hesabım Sayfası’na erişmek ve Websitesi üzerinden işlem gerçekleştirebilmek için ihtiyaç duyduğu kullanıcı adı ve şifre bilgisi, Üye tarafından oluşturulmakta olup, söz konusu bilgilerin güvenliği ve gizliliği tamamen Üye’nin sorumluluğundadır. Üye, kendisine ait kullanıcı adı ve şifre ile gerçekleştirilen işlemlerin kendisi tarafından gerçekleştirilmiş olduğunu, bu işlemlerden kaynaklanan sorumluluğunun peşinen kendisine ait olduğunu, bu şekilde gerçekleştirilen iş ve işlemleri kendisinin gerçekleştirmediği yolunda herhangi bir def’i ve/veya itiraz ileri süremeyeceğini ve/veya bu def’i veya itiraza dayanarak yükümlülüklerini yerine getirmekten kaçınmayacağını kabul, beyan ve taahhüt eder.</span>
+            </li>
+            <li><strong>4.9.</strong> <span>Üye, Websitesi’ni aşağıda sayılan haller başta olmak üzere hukuka ve ahlaka aykırı bir şekilde kullanmayacaktır:</span></li>
+        </ul>
+        <ul class="indent disc">
+            <li><strong>4.9.1.</strong> <span>Websitesi’nin herhangi bir kişi adına veri tabanı, kayıt veya rehber yaratmak, amacıyla kullanılması;</span></li>
+            <li><strong>4.9.2.</strong> <span>Websitesi’nin bütününün veya bir bölümünün bozma, değiştirme veya ters mühendislik yapma amacıyla kullanılması;</span></li>
+            <li><strong>4.9.3.</strong> <span>Yanlış bilgiler veya başka bir kişinin bilgileri kullanılarak işlem yapılması, yanlış veya yanıltıcı ikametgâh adresi, elektronik posta adresi, iletişim, ödeme veya hesap bilgileri de dahil yanlış veya yanıltıcı kişisel veriler kullanmak suretiyle gerçek olmayan Üyelik hesapları oluşturulması ve bu hesapların Üyelik Sözleşmesi’ne veya yürürlükte mevzuata aykırı şekilde kullanılması, başka bir Üye’nin hesabının izinsiz kullanılması, başka birinin yerine geçilerek ya da yanlış bir isimle işlemlere taraf ya da katılımcı olunması;</span>
+            </li>
+            <li><strong>4.9.4.</strong> <span>Yorum ve puanlama sistemlerinin; Websitesi’ndeki yorumları Websitesi dışında yayınlamak gibi Websitesi dışı amaçlar için veya sistemleri manipüle edecek şekilde kullanılma amaçları dışında kullanılması;</span></li>
+            <li><strong>4.9.5.</strong> <span>Virüs veya Websitesi’ne, Websitesi’nin veri tabanına, Websitesi üzerinde yer alan herhangi bir içeriğe zarar verici herhangi başka bir teknoloji yayılması;</span></li>
+            <li><strong>4.9.6.</strong> <span>Üyeler veya Satıcılar hakkında elektronik posta adresleri de dâhil herhangi bir bilginin ilgili kişilerin izni olmaksızın toplanması veya 6698 sayılı Kişisel Verilerin Korunması Hakkında Kanun uyarınca ihlal teşkil edecek diğer uygulamalarda bulunulması;</span></li>
+            <li><strong>4.9.7.</strong> <span>Websitesi tarafından belirlenmiş olan iletişimler ve teknik sistemler üzerinde makul olmayan veya orantısız derecede büyük yüklemeler yaratacak ya da teknik işleyişe zarar verecek faaliyetlerde bulunulması, DP’nin önceden yazılı iznini alınmaksızın Websitesi üzerinde otomatik program, robot, web crawler, örümcek, veri madenciliği (data mining) ve veri taraması (data crawling) gibi "screen scraping" yazılımları veya sistemleri kullanılması ve bu şekilde Websitesi’nde yer alan herhangi bir içeriğin tamamının veya bir kısmının izinsiz kopyalanarak, yayınlanması veya kullanılması;</span>
+            </li>
+            <li><strong>4.9.8.</strong> <span>Hizmetler’in, Websitesi’nde sunulan kampanya ve avantajların kötü niyetle ve haksız fayda sağlanması amacına yönelik kullanılması, kampanya koşullarının kötü niyetle ihlal edilmesi.</span></li>
+        </ul>
+        <ul>
+            <li><strong>4.10.</strong> <span>Üye, Websitesi’nde yaptığı işlemleri Websitesi’ne teknik olarak hiçbir surette zarar vermeyecek şekilde yürütmekle yükümlüdür. Üye, Websitesi’ne sağlayacağı tüm bilgi, içerik, materyal ve sair içeriğin sisteme zarar verecek her türlü program, virüs, yazılım, lisansız ürün, truva atı vb. içermemesi için gerekli koruyucu yazılımları ve lisanslı ürünleri kullanmak da dâhil olmak üzere gerekli her türlü tedbiri aldığını kabul ve taahhüt eder. Üye ayrıca Hesap Sayfası’na robot veya otomatik giriş yöntemleriyle girmeyeceğini kabul eder.</span>
+            </li>
+        </ul>
+
+        <h2>5. SÖZLEŞME’NİN FESHİ</h2>
+        <ul>
+            <li><strong>5.1.</strong> <span>Taraflar’dan herhangi biri, işbu Üyelik Sözleşmesi’ni tek taraflı olarak ve tazminat ödemeksizin her zaman feshedilebilir. Böyle bir fesih halinde Taraflar fesih tarihine kadar doğmuş olan hak ve borçları karşılıklı olarak tamamen ifa edeceklerdir. </span></li>
+            <li><strong>5.2.</strong> <span>DP, Üye’nin işbu Üyelik Sözleşmesi’nin herhangi bir maddesini ihlal ettiğini tespit etmesi veya buna ilişkin makul bir şüphe duyması halinde üyeliği askıya alma, sonlandırma, dava ve takip haklarına sahiptir. </span></li>
+        </ul>
+
+        <h2>6. GİZLİLİK ve KİŞİSEL VERİLERİN KORUNMASI</h2>
+        <ul>
+            <li><strong>6.1.</strong> <span>DP, Üye’nin Websitesi’nde sunulan Hizmetler’den yararlanabilmek için Websitesi üzerinden kendisine sağladığı kişisel verilerin 6698 sayılı Kişisel Verilerin Korunması Kanunu da dahil her türlü mevzuata uygun bir şekilde işlenmesine, güvenliğinin sağlanmasına ve korunmasına önem vermektedir. DP, bu kapsamda Üye’nin sağladığı kişisel verileri Websitesi’nde yer alan Gizlilik ve Kişisel Verilerin Korunması Politikası’na ve Çerez (Cookie) Politikası’na uygun olarak toplamakta, kullanmakta, aktarmakta ve diğer şekillerde işleyebilmektedir. Üye, kişisel verilerinin kullanılması ile ilgili koşullar ve bu konudaki haklarıyla ilgili olarak daha fazla bilgi edinmek için Websitesi’nde yer alan Gizlilik ve Kişisel Verilerin Korunması Politikası’nı her zaman inceleyebileceğini ve burada belirtilen şekilde kisiselverilerim@n11.com adresine elektronik posta göndererek ya da Websitesi’nde yer alan Başvuru Formu’nda belirtilen diğer yöntemlerle kullanabileceğini anlamaktadır.</span>
+            </li>
+            <li><strong>6.2.</strong> <span>Üye tarafından Websitesi’nde Üyelik oluşturmak veya Websitesi’nden faydalanmak amacıyla paylaşılan kişisel veriler; Üyelik Sözleşmesi ile belirlenen yükümlülüklerin ifası, Websitesi’nin işletilmesi için gereken uygulamaların yürütülmesi, Üye veya Ziyaretçi’ye çeşitli avantajların sağlanıp sunulabilmesi, ödeme işlemlerinin gerçekleştirilmesi, sipariş teslimatlarının yapılması, müşteri hizmetleri ve şikayet takibi işlemlerinin gerçekleştirilmesi ve Üye’ye özel reklam, satış, pazarlama, anket, benzer amaçlı her türlü elektronik iletişim, profilleme, istatistiksel çalışmalar yapılması amacıyla DP ya da iş ortakları tarafından Gizlilik ve Kişisel Verilerin Korunması Politikası’na ve Çerez (Cookie) Politikası’na uygun olarak toplanmakta, saklanmakta ve işlenmektedir. Ayrıca, bu kişisel veriler Üye’ye özel avantajların sunulabilmesi, satış, pazarlama ve benzeri faaliyetlerin yapılabilmesine yönelik olarak 6698 sayılı Kişisel Verilerin Korunması Kanunu’ndaki ve ilgili diğer mevzuattan doğan yükümlülükleri yerine getirilmesi şartıyla Üye ile iletişime geçilmesi amacıyla SK Planet Ltd. ile Doğuş Holding ve iştirakleriyle paylaşılacaktır. (Doğuş Holding ve iştirakleri hakkında detaylı bilgi için; www.dogusgrubu.com.tr).</span>
+            </li>
+        </ul>
+
+        <h2>7. FİKRİ MÜLKİYET HAKLARI</h2>
+        <p>n11.com markası ve logosu, n11.com mobil uygulamasının ve Websitesi’nin tasarımı, yazılımı, alan adı ve bunlara ilişkin olarak DP tarafından oluşturulan her türlü marka, tasarım, logo, ticari takdim şekli, slogan ve diğer tüm içeriğin her türlü fikri mülkiyet hakkı ile DP’nin mülkiyetindedir. Üye, DP’nin veya bağlı şirketlerinin mülkiyetine tabi fikri mülkiyet haklarını
+            DP’nin izni olmaksızın kullanamaz, paylaşamaz, dağıtamaz, sergileyemez, çoğaltamaz veya bunlardan türemiş çalışmalar yapamaz. Üye, n11.com mobil uygulamasının veya Websitesi’nin bütünü ya da bir kısmını başka bir ortamda DP’nin izni olmaksızın kullanamaz. Üye’nin, üçüncü kişilerin veya DP’nin fikri mülkiyet haklarını ihlal edecek şekilde davranması halinde, Üye, DP’nin
+            ve/veya söz konusu üçüncü kişinin tüm doğrudan ve dolaylı zararları ile masraflarını tazmin etmekle yükümlüdür.</p>
+
+        <h2>8. SÖZLEŞME DEĞİŞİKLİKLERİ</h2>
+        <p>DP, tamamen kendi takdirine bağlı olmak üzere, işbu Üyelik Sözleşmesi’ni ve Websitesi’nde yer alan Gizlilik ve Kişisel Verilerin Korunması Politikası ve Çerez (Cookie) Politikası da dahil her türlü politikayı, hüküm ve şartı uygun göreceği herhangi bir zamanda, yürürlükteki mevzuat hükümlerine aykırı olmamak kaydıyla Websitesi’nde ilan ederek tek taraflı olarak
+            değiştirebilir. İşbu Üyelik Sözleşmesi’nin değişen hükümleri, Websitesi’nde ilan edildikleri tarihte geçerlilik kazanacak, geri kalan hükümler aynen yürürlükte kalarak hüküm ve sonuçlarını doğurmaya devam edecektir. Şüpheye mahal vermemek adına, işbu Üyelik Sözleşmesi Üye tarafından tek taraflı olarak değiştirilemez.</p>
+
+        <h2>9. MÜCBİR SEBEP</h2>
+        <p>Ayaklanma, ambargo, devlet müdahalesi, isyan, işgal, savaş, seferberlik, grev, lokavt, iş eylemleri veya boykotlar dahil olmak üzere işçi-işveren anlaşmazlıkları, siber saldırı, iletişim sorunları, altyapı ve internet arızaları, sisteme ilişkin iyileştirme veya yenileştirme çalışmaları ve bu sebeple meydana gelebilecek arızalar, elektrik kesintisi, yangın, patlama, fırtına,
+            sel, deprem, göç, salgın veya diğer bir doğal felaket veya DP’nin kontrolü dışında gerçekleşen, kusurundan kaynaklanmayan ve makul olarak öngörülemeyecek diğer olaylar ("Mücbir Sebep") DP’nin işbu Üyelik Sözleşmesi’nden doğan yükümlülüklerini ifa etmesini engeller veya geciktirirse, DP ifası Mücbir Sebep sonucunda engellenen veya geciken yükümlülüklerinden dolayı sorumlu
+            tutulamaz ve bu durum işbu Üyelik Sözleşmesi’nin bir ihlali olarak kabul edilemez.</p>
+
+        <h2>10. MUHTELİF HÜKÜMLER</h2>
+        <ul>
+            <li><strong>10.1. Delil sözleşmesi.</strong> <span>Üye, işbu Üyelik Sözleşmesi’nden doğabilecek ihtilaflarda DP’nin resmi defter ve ticari kayıtları ile DP’nin veri tabanında, sunucularında tutulan e-arşiv kayıtlarının, elektronik bilgilerin, elektronik yazışmaların ve bilgisayar kayıtlarının, bağlayıcı, kesin ve münhasır delil teşkil edeceğini ve bu maddenin 6100 sayılı Hukuk Muhakemeleri Kanunu’nun 193. maddesi anlamında delil sözleşmesi niteliğinde olduğunu kabul eder.</span>
+            </li>
+            <li><strong>10.2. Uygulanacak Hukuk ve Uyuşmazlıkların Çözümü.</strong> <span>İşbu Üyelik Sözleşmesi münhasıran Türkiye Cumhuriyeti kanunlarına tabi olacaktır. İşbu Üyelik Sözleşmesi’nden kaynaklanan veya işbu Üyelik Sözleşmesi ile bağlantılı olan her türlü ihtilaf, İstanbul Merkez (Çağlayan) Mahkemeleri ve İcra Müdürlükleri’nin münhasır yargı yetkisinde olacaktır.</span>
+            </li>
+            <li><strong>10.3. Bildirim</strong> <span>DP, Üye ile Üye’nin kayıt olurken bildirmiş olduğu elektronik posta adresi vasıtasıyla veya telefon numarasına arama yapmak ve SMS göndermek suretiyle iletişim kuracaktır. Üye, elektronik posta adresini ve telefon numarasını güncel tutmakla yükümlüdür.</span></li>
+            <li><strong>10.4. Üyelik Sözleşmesi’nin Bütünlüğü ve Bölünebilirliği.</strong> <span>İşbu Üyelik Sözleşmesi, konuya ilişkin olarak Taraflar arasındaki anlaşmanın tamamını oluşturmaktadır. İşbu Üyelik Sözleşmesi’nin herhangi bir hükmünün yetkili herhangi bir mahkeme, tahkim heyeti veya idari makam tarafından tümüyle veya kısmen geçersiz veya uygulanamaz olduğu veya makul olmadığına karar verilmesi halinde, söz konusu geçersizlik, uygulanamazlık veya makul olmama ölçüsünde işbu Üyelik Sözleşmesi bölünebilir olarak kabul edilecek ve diğer hükümler tümüyle yürürlükte kalmaya devam edecektir. </span>
+            </li>
+            <li><strong>10.5. Üyelik Sözleşmesi’nin Devri.</strong> <span>Üye, DP’nin önceden yazılı onayını almaksızın işbu Üyelik Sözleşmesi’ndeki haklarını veya yükümlülüklerini tümüyle veya kısmen temlik edemeyecektir.</span></li>
+            <li><strong>10.6. Tadil ve Feragat.</strong> <span>Taraflar’dan birinin Üyelik Sözleşmesi’nde kendisine verilen herhangi bir hakkı kullanmaması ya da icra etmemesi, söz konusu haktan feragat ettiği anlamına gelmeyecek veya söz konusu hakkın daha sonra kullanılmasını ya da icra edilmesini engellemeyecektir. </span></li>
+        </ul>
+        <p>
+            10 (on) maddeden ibaret bu Üyelik Sözleşmesi, Üye tarafından her bir hükmü okunarak ve bütünüyle anlaşılarak elektronik ortamda onaylanmak suretiyle yürürlüğe girmiştir.
+        </p>
+    </div>
+
+</div></div>
+    </div>
+</div></body></html>

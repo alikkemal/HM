@@ -51,7 +51,7 @@ public class MemberShip extends PageObject {
     public WebElementFacade BirthYear;
 
     @CacheLookup
-    @FindBy(id = "acceptContract")
+    @FindBy(xpath = "//*[@for='acceptContract']")
     public WebElementFacade AcceptContract;
 
     @CacheLookup
