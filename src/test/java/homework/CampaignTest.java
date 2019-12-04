@@ -35,7 +35,7 @@ public class CampaignTest {
     }
 
     @Test
-    @Title("New member will be create every run test and will be write campaign information over created member")
+    @Title("New member will be create every run test and Will be write campaign information over created member")
     public void signUp() throws IOException {
 
         homePageSteps.click_to_sign_up_button();
