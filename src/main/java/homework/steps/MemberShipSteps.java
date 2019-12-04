@@ -11,73 +11,73 @@ public class MemberShipSteps {
     MemberShip membership;
     HomePage homePage;
 
-    @Step
+    @Step("Member will be enter firstname")
     public void enterFirstName(String firstName){
 
         membership.txtFirstname(firstName);
     }
 
-    @Step
+    @Step("Member will be enter lastname")
     public void enterLastName(String lastName){
 
         membership.txtLastname(lastName);
     }
 
-    @Step
+    @Step("Member will be enter email address")
     public void enterEmailAddress(String email){
 
         membership.txtEmailAddress(email);
     }
 
-    @Step
+    @Step("Member will be enter password")
     public void identifyPassword(String password){
 
         membership.txtPassword(password);
     }
 
-    @Step
+    @Step("Member will be enter verify password")
     public void verifyPassword(String onceAgain){
 
         membership.txtAgainPassword(onceAgain);
     }
 
-    @Step
+    @Step("Member will be enter phone number")
     public void enterPhoneNumber(String phoneNumber){
 
         membership.txtPhoneNumber(phoneNumber);
     }
 
-    @Step
+    @Step("Member will be enter to intended capthca character before register on website")
     public void enterCaptcha(){
 
         membership.Captcha.sendKeys("N11");
     }
 
-    @Step
+    @Step("Member will be select gender")
     public void selectGender(){
 
         membership.clickGenderBtn();
     }
 
-    @Step
+    @Step("Member will be enter date of birth")
     public void dateOfBirth(String birthDay, String birthMonth, String birthYear){
 
         membership.enterBirthdayDate(birthDay,birthMonth,birthYear);
     }
 
-    @Step
+    @Step("Member will be accept agreement")
     public void acceptMemberAgreement(){
 
         membership.acceptAgreement();
     }
 
-    @Step
+    @Step("Member will be click notification permission")
     public void clickSmsBtn(){
 
         membership.clickSmsApproval();
     }
 
-    @Step
+    @Step("Member will be click to submit register information")
     public void clickSubmitBtn(){
 
         membership.clickSbmBtn();
@@ -85,7 +85,7 @@ public class MemberShipSteps {
 
     public HomePage fill_in_sign_up_form(){
 
-     final String random = RandomStringUtils.randomAlphanumeric(10);
+     final String random = RandomStringUtils.randomAlphanumeric(7);
 
         enterFirstName("Test");
         enterLastName("User");
@@ -99,6 +99,7 @@ public class MemberShipSteps {
         clickSmsBtn();
         enterCaptcha();
         clickSubmitBtn();
+
         return homePage;
     }
 

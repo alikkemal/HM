@@ -7,7 +7,6 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import homework.utils.ReadWriteXls;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -21,6 +20,7 @@ public class CampaignPage extends PageObject {
 
     @FindBy(xpath = "//*[@title='Kampanyalar']")
     public WebElementFacade campaigns;
+
 
     public void openCampaign() {
 
